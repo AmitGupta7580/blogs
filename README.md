@@ -1,6 +1,6 @@
 # Peronal Blogs
 
-<a href="http://ammmy.me/blogs">Blog Website</a>
+<a href="http://blogs.ammmy.me">Blog Website</a>
 
 This website is made with the use of `jekyll`.
 Inspiration of Jekyll-Theme is taken from <a href="https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll">here</a>
