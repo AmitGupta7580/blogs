@@ -2,8 +2,8 @@ title:              Blogs
 email:              amit758000@example.com
 description:        Dive into the world of Trending Technologies
 author:             Amit Gupta
-baseurl:            "/blogs"
-url:                "http://ammmy.me"
+baseurl:            "/"
+url:                "http://blogs.ammmy.me"
 
 # Social Profiles
 twitter_username:   AmitGup98036159
